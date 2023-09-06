@@ -1,6 +1,5 @@
 - 👋 Hi, I’m William!
 - 👀 I’m interested in back end development, but have front end experience.
-- 🌱 I’m currently learning C#
 - 📫 Reach me by emailing me at wgtlwill@gmail.com
 
 <!---
